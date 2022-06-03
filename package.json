@@ -1,0 +1,30 @@
+{
+  "name": "trunner",
+  "version": "1.0.0",
+  "description": "Make E2E Testing fun again",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greencoder001/trunner.git"
+  },
+  "keywords": [
+    "trunner",
+    "testing",
+    "test",
+    "tests",
+    "e2e",
+    "end-to-end",
+    "endtoend",
+    "e2e-testing",
+    "testrunner"
+  ],
+  "author": "greencoder001",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/greencoder001/trunner/issues"
+  },
+  "homepage": "https://github.com/greencoder001/trunner#readme"
+}
